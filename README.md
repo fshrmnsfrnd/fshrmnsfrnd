@@ -1,6 +1,6 @@
-## 👩🏻‍💻Technikerschule München
-## ✨Some private projects
-## 💻**[https://fshrmnsfrnd.github.io](https://fshrmnsfrnd.github.io)**
+- 👩🏻‍💻Technikerschule München
+- ✨Some private projects
+- 💻**[https://fshrmnsfrnd.github.io](https://fshrmnsfrnd.github.io)**
 
 # fshrmnsfrnd
 
