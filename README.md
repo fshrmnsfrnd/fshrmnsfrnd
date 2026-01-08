@@ -1,11 +1,10 @@
-- 👩🏻‍💻Technikerschule München
-- ✨Some private projects
+## 👩🏻‍💻Technikerschule München
+## ✨Some private projects
+## 💻**[https://fshrmnsfrnd.github.io](https://fshrmnsfrnd.github.io)**
 
 # fshrmnsfrnd
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fshrmnsfrnd" alt="fshrmnsfrnd" /></a> </p>
-
-- 📝 I regularly write articles on **[https://fshrmnsfrnd.github.io](https://fshrmnsfrnd.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
