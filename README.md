@@ -1,4 +1,4 @@
-- 👩🏻‍💻Technikerschule München
+- 👩🏻‍💻Technische Hochschule Augsburg
 - ✨Some private projects
 - 💻[https://fshrmnsfrnd.github.io](https://fshrmnsfrnd.github.io)
 
